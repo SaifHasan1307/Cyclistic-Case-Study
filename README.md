@@ -131,36 +131,36 @@ Cyclistic-Case-Study/
 
 ├── data/
 
-│ ├── cyclistic_cleaned.csv
+  ├── cyclistic_cleaned.csv
 
-│ └── cyclistic_viz_data.csv
+  └── cyclistic_viz_data.csv
 
 
 ├── scripts/
 
-│ ├── data_check.R
+  ├── data_check.R
 
-│ ├── 01_import_and_merge.R
+  ├── 01_import_and_merge.R
 
-│ ├── 02_clean_data.R
+  ├── 02_clean_data.R
 
-│ ├── 03_descriptive_analysis.R
+  ├── 03_descriptive_analysis.R
 
-│ └── 04_export_for_viz.R
+  └── 04_export_for_viz.R
 
 
 ├── tableau/
 
-│ ├── Cyclistic_Dashboard.twb
+  ├── Cyclistic_Dashboard.twb
 
-│ └── dashboard_screenshot.png
+  └── dashboard_screenshot.png
 
 
 ├── outputs/
 
-│ ├── tables/
+  ├── tables/
   
-│ └── charts/
+  └── charts/
   
 └── docs/
 
