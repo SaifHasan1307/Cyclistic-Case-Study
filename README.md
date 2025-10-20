@@ -91,6 +91,8 @@ R scripts used are stored in `/scripts/`.
 Dashboard preview:  
 `/tableau/dashboard_screenshot.png`
 
+![Dashboard Screenshot](tableau/dashboard_screenshot.png)
+
 ---
 
 ## Recommendations
